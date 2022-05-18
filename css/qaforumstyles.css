@@ -1,0 +1,150 @@
+#carousel_images{
+	width:100%;
+	height: 400px;
+}
+#carousel1-control{
+	margin-top: 340px;
+	border:1px solid red;
+	background-color: red;
+	border-radius: 3px;
+}
+#banner_image_indicators li{
+	background-color: red;
+}
+
+
+body{
+		font-family: Helvetica;
+		font-size: 16px;
+		background-color: rgb(221, 218, 218);
+	}
+		#navigation{
+			background-color: rgb(109, 107, 103);
+			/* border-color: rgb(173, 95, 22); */
+			opacity: 0.75;
+		}
+		.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+      color: white !important;
+  background-color: transparent;
+}
+.navbar-default {
+  background-color: rgb(71, 70, 68);
+  border-color: rgb(71, 70, 68);
+  height: 85px;
+}
+.navbar-default .navbar-nav > li > a {
+  color: white  !important;
+  padding: 30px;
+}
+.navbar-default .navbar-nav > li > a:hover {
+  color: #8490ff  !important;
+  padding: 18px;
+}
+.navbar-default .navbar-brand {
+  color: #8490ff;
+  padding: 18px;
+}
+.navbar-default .navbar-brand:hover {
+  color: #8490ff;
+  padding: 18px;
+}
+#logo{
+	margin-top: -10px;
+}
+#banner-img{
+	margin-top: -60px;
+
+}
+#intro-text{
+	margin-top: 120px;
+	padding-bottom: 50px;
+}
+#progress {
+border-bottom: 2px solid #8490ff;
+width: 0;
+position: fixed;
+top: 0; left: 0;
+}
+.navStyle{
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+h4, h2{
+	color:rgb(158, 85, 37);
+}
+h3{
+	color:#e7e8f0;
+}
+h1{color:#e0e2f0;
+}
+
+p{
+	color:rgb(158, 85, 37);
+}
+label{
+	color: #8490ff;
+}
+input[type="text"], input[type="email"], input[type="number"], input[type="password"]{
+	margin-top: 20px;
+	width: 300px;
+	border-color: #e3e3e6;
+	color:#caccd6;
+}
+textarea{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	border-color:#d4d4d8;
+	color:#d5d7e6;
+	width: 500px;
+}
+#about-text{
+	 margin-left: 300px;
+/*	margin-right: 90px; */
+	align-items: center;
+	max-width: 700px;
+	color: rgb(158, 85, 37);
+
+}
+#intro-images{
+	padding-top: 50px;
+	max-width: 1300px;
+	margin-left: 60px;
+	margin-top: -350px;
+}
+#menu-header{
+	width: 1px;
+}
+#labels{
+	border-radius: 10px;
+	margin-top: -200px;
+	margin-left: 100px;
+	padding-top: 5px;
+	background-color: #eaebf1;
+	opacity: 0.9;
+	width: 200px;
+	height: 45px;
+	text-align: center;
+	border-color: black;
+}
+#shop-images{
+	padding-top: 150px;
+	align-items: center;
+	margin-left: 20px;
+}
+
+#menu-header1{
+	float: right;
+	margin-top: -350px;
+	padding-right: 25px;
+}
+#menu-header{
+	width:30px;
+	margin-top: 250px; 
+	padding-left: 25px;
+}
+
+#about-images{
+	margin-top: 38px;
+}
